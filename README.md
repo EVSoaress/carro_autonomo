@@ -1,4 +1,5 @@
-# carro_autonomo
+# autonomous car
+
 Just run the ```map.py``` file.
 And choose between the versions of neural networks created between ```aiV1``` and ```aiV2```
 
